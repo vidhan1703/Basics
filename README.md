@@ -18,7 +18,8 @@ Lab 2 :  https://tryhackme.com/r/room/linuxmodules  [Updated]
 
 ########### Nmap Tool ######################
 
- https://tryhackme.com/r/room/furthernmap
+Youtube : https://www.youtube.com/watch?v=JHAMj2vN2oU
+ Try Hack Me Lab: https://tryhackme.com/r/room/furthernmap
 
 ########## Burp Suite  Basic ###############
 
