@@ -13,9 +13,7 @@
 
 Lab 1 :  https://tryhackme.com/r/room/linuxfundamentalspart1
 
-Lab 2 :  https://tryhackme.com/r/room/linuxfundamentalspart2
-
-Lab 3 :  https://tryhackme.com/r/room/linuxfundamentalspart3
+Lab 2 :  https://tryhackme.com/r/room/linuxmodules  [Updated]
 
 
 ########### Nmap Tool ######################
