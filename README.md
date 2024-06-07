@@ -24,4 +24,4 @@ Try Hack Me Lab: https://tryhackme.com/r/room/furthernmap
 
 ########## Burp Suite  Basic ###############
 
- https://tryhackme.com/r/room/burpsuitebasics
+ https://youtu.be/aUG45BxFwp0?si=6klLJyIRPR-uJxg9   [ Updated ]
